@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "OOD_Project_1": {
+      "commandName": "Project",
+      "commandLineArgs": "example_data.ftr\r\n"
+    }
+  }
+}
